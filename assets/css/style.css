@@ -1,3 +1,5 @@
+@import "fonts.css";
+
 *{
     margin: 0;
     padding: 0;
@@ -291,4 +293,13 @@ select {
 }
 .mail {
     color: #FFFFFF;
+}
+
+.suburb {
+    max-width: 1920px;
+    margin: auto;
+    width: 100%;
+    background-color: #42f2f5;
+    margin-top: 72px;
+    display: none;
 }
