@@ -154,3 +154,91 @@ select {
     border-radius: 10px;
     padding-left: 24px;
 }
+
+.sectorium {
+    max-width: 1642px;
+    width: 100%;
+    margin: auto;
+}
+.trendiol {
+    margin-top: 32px;
+    margin-bottom: 20px;
+}
+.stend {
+    background-color: #F8F8F8;
+    border-radius: 24px;
+    position: relative;
+    max-width: 395px;
+}
+.parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-auto-rows: minmax(303px, auto);
+    grid-template-rows: 424px 424px;
+    gap: 20px;
+}
+.tester {
+    padding-right: 13px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 13px;
+}
+
+.tora {
+    margin: auto;
+    padding: 16px 16px;
+}
+.ctnamanga {
+    margin-left: 20px;
+}
+.ctKajiado {
+    margin-left: 20px;
+    margin-top: 8px;
+}
+.price {
+    margin-top: 15px;
+    margin-bottom: 13px;
+    margin-right: 10px;
+    font-size: 24px;
+    letter-spacing: 0px;
+    line-height: 36px;
+    color: #29B24E;
+}
+.lacon {
+    max-width: 375px;
+    padding-left: 20px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.runner {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 15px;
+    margin-top: -235px;
+}
+.iframe {
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    padding: 11px 11px;
+}
+.describe {
+    display: flex;
+    gap: 63px;
+    color: #000000;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 21px;
+}
+.vip {
+    background-color: #29B24E;
+    border-radius: 15px;
+    position: absolute;
+    color: #FFFFFF;
+    padding: 6px 11px;
+    top: 28px;
+    left: 28px;
+}
