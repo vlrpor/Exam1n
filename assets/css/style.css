@@ -303,3 +303,43 @@ select {
     margin-top: 72px;
     display: none;
 }
+
+.about-container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: auto;
+    max-width: 1920px;
+    width: 100%;
+    border: 1px solid #00C9FF ;
+    background-color: #C2C2C24D;
+}
+
+.about-north {
+    max-width: 1640px;
+    width: 100%;
+    margin: auto;
+    margin-top: 54px;
+    margin-bottom: 55px;
+}
+
+.about-carlson {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.about-navbar-ul {
+    display: flex;
+    gap: 48px;
+    color: #000000E5;
+    align-items: center;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 21px;
+    font-weight: regular;
+}
+.watcher {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 8px;
+}
