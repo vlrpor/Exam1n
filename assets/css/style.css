@@ -343,3 +343,218 @@ select {
     align-items: center;
     gap: 8px;
 }
+.about-sector {
+    display: flex;
+    flex-wrap: wrap-reverse;
+    max-width: 1640px;
+    width: 100%;
+    margin: auto;
+    gap: 44px;
+}
+.about-western {
+    max-width: 810px;
+    width: 100%;
+}
+.about-eastern {
+    max-width: 786px;
+    width: 100%;
+    margin: auto;
+}
+.westeros {
+    max-width: 746px;
+    width: 100%;
+    margin: auto;
+}
+.stark {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.targars {
+    max-width: 618px;
+    width: 100%;
+    margin-top: 29px;
+    margin-bottom: 40px;
+}
+.targars h2 {
+    font-size: 22px;
+    letter-spacing: 0px;
+    line-height: 33px;
+    margin-bottom: 12px;
+}
+.targars h6 {
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 21px;
+    margin-bottom: 32px;
+}
+.targars p {
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 23px;
+}
+.br-ul {
+    display: flex;
+    justify-content: flex-start;
+    gap: 24px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    margin-bottom: 24px;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 23px;
+}
+.lanict {
+    max-width: 746px;
+    width: 100%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 24px;
+}
+.memphs {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.money-cash {
+    padding-right: 13px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 13px;
+}
+.expansive {
+    margin-top: 15px;
+    margin-bottom: 13px;
+    margin-right: 10px;
+    font-size: 36px;
+    letter-spacing: 0px;
+    line-height: 54px;
+    color: #29B24E;
+}
+.vpn {
+    background-color: #29B24E;
+    border-radius: 15px;
+    color: #FFFFFF;
+    padding: 6px 11px;
+    top: 28px;
+    left: 28px;
+    font-size: 12px;
+    letter-spacing: 0px;
+    line-height: 18px;
+}
+.cartage {
+    color: #29B24E;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 21px;
+    padding-top:13px;
+    padding-bottom: 13px;
+    padding-left: 26px;
+    padding-right: 26px;
+    border-radius: 12px;
+    border: 1px solid #29B24E;
+}
+.caller {
+    background-color: #29B24E;
+    color: #FFFFFF;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 21px;
+    padding-top:13px;
+    padding-bottom: 13px;
+    padding-left: 26px;
+    padding-right: 26px;
+    border-radius: 12px;
+}
+.about-sectorium {
+    max-width: 1642px;
+    width: 100%;
+    margin: auto;
+}
+.about-trendiol {
+    margin-top: 32px;
+    margin-bottom: 20px;
+}
+.about-stend {
+    background-color: #F8F8F8;
+    border-radius: 24px;
+    position: relative;
+    max-width: 395px;
+}
+.about-parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-auto-rows: minmax(303px, auto);
+    grid-template-rows: 424px;
+    gap: 20px;
+}
+.about-tester {
+    padding-right: 13px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 13px;
+}
+
+.about-tora {
+    margin: auto;
+    padding: 16px 16px;
+}
+.about-ctnamanga {
+    margin-left: 20px;
+}
+.about-ctKajiado {
+    margin-left: 20px;
+    margin-top: 8px;
+}
+.about-price {
+    margin-top: 15px;
+    margin-bottom: 13px;
+    margin-right: 10px;
+    font-size: 24px;
+    letter-spacing: 0px;
+    line-height: 36px;
+    color: #29B24E;
+
+}
+.about-lacon {
+    max-width: 375px;
+    padding-left: 20px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+}
+.about-runner {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    margin-right: 15px;
+    margin-top: -235px;
+}
+.about-iframe {
+    background-color: #FFFFFF;
+    border-radius: 50%;
+    padding: 11px 11px;
+}
+.about-describe {
+    display: flex;
+    gap: 63px;
+    color: #000000;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 21px;
+}
+.about-vip {
+    background-color: #29B24E;
+    border-radius: 15px;
+    position: absolute;
+    color: #FFFFFF;
+    padding: 6px 11px;
+    top: 28px;
+    left: 28px;
+}
